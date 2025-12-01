@@ -1,0 +1,10 @@
+[
+  {
+    "model": "dogs.breed",
+    "pk": 1,
+    "fields": {
+      "name": "Лабрадор",
+      "description": "Дружелюбная порода"
+    }
+  }
+]
